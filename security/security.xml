@@ -1,0 +1,11 @@
+<odoo>
+    <data>
+        <record id="group_antbook_user" model="res.groups">
+            <field name="name">Antbook User</field>
+        </record>
+
+        <record id="group_antbook_manager" model="res.groups">
+            <field name="name">Antbook Manager</field>
+        </record>
+    </data>
+</odoo>
