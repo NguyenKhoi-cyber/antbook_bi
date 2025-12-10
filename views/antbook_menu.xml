@@ -1,0 +1,11 @@
+<odoo>
+    <menuitem id="antbook_root" name="Antbook BI" sequence="1"/>
+
+    <menuitem id="antbook_order_menu" 
+              name="Orders" 
+              parent="antbook_root"/>
+
+    <menuitem id="antbook_dashboard_menu" 
+              name="Dashboard" 
+              parent="antbook_root"/>
+</odoo>
